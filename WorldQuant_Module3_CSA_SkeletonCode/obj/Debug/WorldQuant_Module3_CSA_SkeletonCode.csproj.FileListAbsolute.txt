@@ -1,0 +1,23 @@
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe.config
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csprojAssemblyReference.cache
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csproj.CoreCompileInputs.cache
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
+C:\Users\Michael White\Documents\Visual Studio 2017\Projects\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csproj.ResolveComReference.cache
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csprojAssemblyReference.cache
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe.config
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\NetOffice.dll
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\OfficeApi.dll
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\VBIDEApi.dll
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\stdole.dll
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\NetOffice.xml
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\OfficeApi.xml
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\bin\Debug\VBIDEApi.xml
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csproj.CoreCompileInputs.cache
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.csproj.CopyComplete
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+D:\Serega\Education\WQU\Data Feeds and Technology\Group work\WorldQuant_Module3_CSA_SkeletonCode\WorldQuant_Module3_CSA_SkeletonCode\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
